@@ -5,5 +5,3 @@ class Book
   end
 
 end
-
-
