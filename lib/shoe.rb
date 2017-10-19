@@ -41,6 +41,8 @@ class Shoe
     @condition
   end
 
-  def cobble 
+  def cobble
     puts "The shoe has been repaired."
+  end
+  
 end
